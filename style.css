@@ -1,0 +1,22 @@
+*{
+    background-color: #303030;
+    color: #5adeff;
+   
+}
+
+div{
+    width: 100%;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
+
+div:hover{
+    background-color: #5adeff;
+    color: #303030;
+}
